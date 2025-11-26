@@ -1,4 +1,5 @@
-🍫 Chocolate Sales Analysis Dashboard
+#🍫 Chocolate Sales Analysis Dashboard
+
 📊 Overview
 Dive into chocolate sales analytics with this interactive Power BI dashboard! Explore sales trends, product performance, and regional insights using real business data. Perfect for data enthusiasts and portfolio builders.
 
